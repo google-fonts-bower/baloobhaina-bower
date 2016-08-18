@@ -1,0 +1,17 @@
+{
+    "name": "baloobhaina-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ek Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/baloobhaina-bower.git"
+    },
+    "description": "Baloo Bhaina font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
